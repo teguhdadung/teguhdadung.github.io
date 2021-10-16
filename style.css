@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.projects {
+  padding: 0%;
+}
+
+.jumbotron {
+  background-image: url(img/Background/Background-1.gif);
+}
